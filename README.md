@@ -2,18 +2,28 @@ Installation
 ============
 
 cd ~/ptam/toon
+
 ./configure --prefix=/usr/local
+
 make && sudo make install
+
 
 cd ~/ptam/libcvd
+
 ./configure --prefix=/usr/local
+
 make && sudo make install
+
 
 cd ~/ptam/gavrs
+
 ./configure --prefix=/usr/local
+
 make && sudo make install
 
+
 cd ~/ptam/Src
+
 make
 
 PTAM-GPL
