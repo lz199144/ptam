@@ -1,0 +1,7 @@
+// This file is parsed by the CameraCalibrator executable
+// Put any custom gvars settings you want in here
+// For example: to increase the camera calibrator's blur parameter,
+// uncomment the following line
+// CameraCalibrator.BlurSigma=2.0
+Camera.Parameters=[ 0.720376 1.29052 0.505722 0.531783 0.999641 ]
+PathCam=
