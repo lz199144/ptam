@@ -1,6 +1,6 @@
 Installation
 ============
-'''
+
 cd ~/ptam/toon
 ./configure --prefix=/usr/local
 make && sudo make install
@@ -15,7 +15,6 @@ make && sudo make install
 
 cd ~/ptam/Src
 make
-'''
 
 PTAM-GPL
 ========
